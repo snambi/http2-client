@@ -1,0 +1,12 @@
+target
+.settings/
+.classpath
+.project
+.idea/
+*.iml
+*.ipr
+*.iws
+ebay.log
+MANIFEST.MF
+*.bash_profile
+*.DS_Store
